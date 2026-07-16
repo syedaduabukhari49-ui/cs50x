@@ -1,0 +1,3 @@
+CS50x solutions and projects from Harvard's introductory computer science course. Code in C, Python, and more, organized by problem sets. Explore, learn, and contribute!. 
+David J. Malan 
+Harvard CS50x......
